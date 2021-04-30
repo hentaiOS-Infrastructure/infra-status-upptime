@@ -23,6 +23,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/hentaiOS-Infrastructure/infra-status-upptime/master/assets/status.svg
   name: hentaiOS Status
+  hideNavTitle: true
   introTitle: "**hentaiOS Status** is status page of hentaiOS Service and Daemons."
   introMessage: This status page uses **real-time** data from our [GitHub repository](https://github.com/hentaiOS-Infrastructure/infra-status-upptime).
   navbar:
