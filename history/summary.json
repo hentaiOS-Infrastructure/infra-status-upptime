@@ -58,18 +58,20 @@
     "url": "https://get.hentaios.com/api/healthcheck",
     "icon": "https://favicons.githubusercontent.com/get.hentaios.com",
     "slug": "hentai-os-download-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 475,
-    "timeDay": 451,
-    "timeWeek": 475,
-    "timeMonth": 475,
-    "timeYear": 475,
-    "dailyMinutesDown": {}
+    "time": 463,
+    "timeDay": 434,
+    "timeWeek": 463,
+    "timeMonth": 463,
+    "timeYear": 463,
+    "dailyMinutesDown": {
+      "2021-05-02": 0
+    }
   },
   {
     "name": "hentaiOS Mattermost",
