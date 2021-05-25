@@ -4,17 +4,17 @@
     "url": "https://downloads.hentaios.com",
     "icon": "https://favicons.githubusercontent.com/downloads.hentaios.com",
     "slug": "hentai-os-download-page",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.81%",
-    "time": 432,
-    "timeDay": 470,
-    "timeWeek": 425,
-    "timeMonth": 432,
-    "timeYear": 432,
+    "time": 433,
+    "timeDay": 477,
+    "timeWeek": 432,
+    "timeMonth": 433,
+    "timeYear": 433,
     "dailyMinutesDown": {
       "2021-05-03": 66
     }
