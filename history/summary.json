@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 440,
-    "timeDay": 1028,
-    "timeWeek": 523,
-    "timeMonth": 451,
-    "timeYear": 440,
+    "time": 439,
+    "timeDay": 391,
+    "timeWeek": 521,
+    "timeMonth": 450,
+    "timeYear": 439,
     "dailyMinutesDown": {
       "2021-05-03": 66
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 734,
-    "timeDay": 944,
-    "timeWeek": 679,
+    "time": 733,
+    "timeDay": 640,
+    "timeWeek": 693,
     "timeMonth": 699,
-    "timeYear": 734,
+    "timeYear": 733,
     "dailyMinutesDown": {
       "2021-05-03": 66
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 471,
-    "timeDay": 644,
-    "timeWeek": 495,
-    "timeMonth": 469,
+    "timeDay": 502,
+    "timeWeek": 503,
+    "timeMonth": 470,
     "timeYear": 471,
     "dailyMinutesDown": {
       "2021-05-03": 66
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 439,
-    "timeDay": 539,
-    "timeWeek": 445,
-    "timeMonth": 427,
+    "timeDay": 461,
+    "timeWeek": 455,
+    "timeMonth": 429,
     "timeYear": 439,
     "dailyMinutesDown": {
       "2021-05-03": 66,
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 451,
-    "timeDay": 1025,
-    "timeWeek": 517,
-    "timeMonth": 445,
-    "timeYear": 451,
+    "time": 450,
+    "timeDay": 376,
+    "timeWeek": 512,
+    "timeMonth": 444,
+    "timeYear": 450,
     "dailyMinutesDown": {
       "2021-05-03": 66
     }
@@ -111,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 470,
-    "timeDay": 590,
-    "timeWeek": 464,
-    "timeMonth": 484,
-    "timeYear": 470,
+    "time": 469,
+    "timeDay": 432,
+    "timeWeek": 462,
+    "timeMonth": 485,
+    "timeYear": 469,
     "dailyMinutesDown": {
       "2021-05-03": 66
     }
@@ -126,16 +126,16 @@
     "icon": "https://favicons.githubusercontent.com/mail.hentaios.com",
     "slug": "hentai-os-mail",
     "status": "up",
-    "uptime": "90.86%",
-    "uptimeDay": "55.56%",
+    "uptime": "91.00%",
+    "uptimeDay": "78.33%",
     "uptimeWeek": "93.65%",
     "uptimeMonth": "86.18%",
-    "uptimeYear": "90.86%",
-    "time": 565,
-    "timeDay": 439,
+    "uptimeYear": "91.00%",
+    "time": 564,
+    "timeDay": 459,
     "timeWeek": 481,
-    "timeMonth": 586,
-    "timeYear": 565,
+    "timeMonth": 585,
+    "timeYear": 564,
     "dailyMinutesDown": {
       "2021-07-02": 323,
       "2021-07-01": 317,
