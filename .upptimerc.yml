@@ -6,7 +6,7 @@ sites:
   - name: hentaiOS Download Page
     url: https://downloads.hentaios.com
   - name: hentaiOS Drone
-    url: https://drone.hentaios.dev
+    url: https://drone.helluvaos.com
   - name: hentaiOS Blog
     url: https://blog.hentaios.com
   - name: hentaiOS Download API
