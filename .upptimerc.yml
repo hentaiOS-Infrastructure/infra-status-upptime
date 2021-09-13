@@ -17,6 +17,8 @@ sites:
     url: https://forum.hentaios.com
   - name: hentaiOS Mail
     url: https://mail.hentaios.com
+  - name: hentaiOS GitLab
+    url: https://gitlab.hentaios.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
