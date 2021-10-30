@@ -9,8 +9,8 @@ sites:
     url: https://blog.hentaios.com
   - name: hentaiOS Download API
     url: https://get.hentaios.com/api/healthcheck
-  - name: hentaiOS Mattermost
-    url: https://mattermost.hentaios.com
+  - name: hentaiOS Wiki
+    url: https://wiki.newcentrix.helluvaos.com
   - name: hentaiOS Forum
     url: https://forum.hentaios.com
   - name: hentaiOS Mail
