@@ -1,7 +1,7 @@
 url: https://get.hentaios.com/api/healthcheck
-status: down
-code: 521
-responseTime: 158
-lastUpdated: 2021-12-11T23:50:07.480Z
+status: up
+code: 200
+responseTime: 458
+lastUpdated: 2021-12-11T23:55:50.656Z
 startTime: Fri Apr 30 2021 20:40:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
