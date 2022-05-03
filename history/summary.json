@@ -11,9 +11,9 @@
     "uptimeMonth": "99.03%",
     "uptimeYear": "97.84%",
     "time": 525,
-    "timeDay": 424,
-    "timeWeek": 426,
-    "timeMonth": 449,
+    "timeDay": 619,
+    "timeWeek": 460,
+    "timeMonth": 456,
     "timeYear": 525,
     "dailyMinutesDown": {
       "2022-04-23": 424,
@@ -33,8 +33,7 @@
       "2021-09-08": 5,
       "2021-07-26": 37,
       "2021-07-19": 33,
-      "2021-07-12": 20,
-      "2021-05-03": 66
+      "2021-07-12": 20
     }
   },
   {
@@ -49,9 +48,9 @@
     "uptimeMonth": "99.04%",
     "uptimeYear": "98.37%",
     "time": 641,
-    "timeDay": 548,
-    "timeWeek": 589,
-    "timeMonth": 598,
+    "timeDay": 795,
+    "timeWeek": 619,
+    "timeMonth": 605,
     "timeYear": 642,
     "dailyMinutesDown": {
       "2022-04-23": 422,
@@ -71,8 +70,7 @@
       "2021-09-08": 5,
       "2021-07-26": 37,
       "2021-07-19": 33,
-      "2021-07-12": 89,
-      "2021-05-03": 66
+      "2021-07-12": 89
     }
   },
   {
@@ -81,15 +79,15 @@
     "icon": "https://favicons.githubusercontent.com/get.hentaios.com",
     "slug": "hentai-os-download-api",
     "status": "up",
-    "uptime": "97.36%",
+    "uptime": "97.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.22%",
     "uptimeYear": "97.36%",
     "time": 585,
-    "timeDay": 68,
-    "timeWeek": 126,
-    "timeMonth": 1627,
+    "timeDay": 561,
+    "timeWeek": 193,
+    "timeMonth": 1634,
     "timeYear": 587,
     "dailyMinutesDown": {
       "2022-04-23": 260,
@@ -119,8 +117,7 @@
       "2021-08-08": 15,
       "2021-07-26": 37,
       "2021-07-19": 33,
-      "2021-07-12": 224,
-      "2021-05-03": 66
+      "2021-07-12": 224
     }
   },
   {
@@ -135,9 +132,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.15%",
     "time": 1028,
-    "timeDay": 974,
-    "timeWeek": 1049,
-    "timeMonth": 1043,
+    "timeDay": 907,
+    "timeWeek": 1026,
+    "timeMonth": 1038,
     "timeYear": 1028,
     "dailyMinutesDown": {
       "2022-04-24": 48,
@@ -167,10 +164,10 @@
     "uptimeMonth": "99.00%",
     "uptimeYear": "98.61%",
     "time": 796,
-    "timeDay": 645,
-    "timeWeek": 692,
-    "timeMonth": 680,
-    "timeYear": 798,
+    "timeDay": 699,
+    "timeWeek": 705,
+    "timeMonth": 685,
+    "timeYear": 799,
     "dailyMinutesDown": {
       "2022-05-02": 17,
       "2022-04-23": 421,
@@ -190,8 +187,7 @@
       "2021-08-08": 15,
       "2021-07-26": 37,
       "2021-07-19": 33,
-      "2021-07-12": 89,
-      "2021-05-03": 66
+      "2021-07-12": 89
     }
   },
   {
@@ -200,15 +196,15 @@
     "icon": "https://favicons.githubusercontent.com/mail.hentaios.com",
     "slug": "hentai-os-mail",
     "status": "up",
-    "uptime": "80.96%",
+    "uptime": "80.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.93%",
-    "uptimeYear": "80.96%",
+    "uptimeYear": "80.99%",
     "time": 769,
-    "timeDay": 624,
-    "timeWeek": 667,
-    "timeMonth": 679,
+    "timeDay": 1015,
+    "timeWeek": 716,
+    "timeMonth": 691,
     "timeYear": 769,
     "dailyMinutesDown": {
       "2022-04-23": 420,
@@ -360,9 +356,9 @@
     "uptimeMonth": "99.04%",
     "uptimeYear": "97.53%",
     "time": 715,
-    "timeDay": 657,
-    "timeWeek": 599,
-    "timeMonth": 644,
+    "timeDay": 801,
+    "timeWeek": 631,
+    "timeMonth": 653,
     "timeYear": 715,
     "dailyMinutesDown": {
       "2022-04-23": 419,
