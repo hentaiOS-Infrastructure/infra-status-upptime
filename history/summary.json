@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/downloads.hentaios.com.ico",
     "slug": "hentai-os-download-page",
     "status": "up",
-    "uptime": "90.79%",
+    "uptime": "90.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "78.86%",
-    "uptimeYear": "86.47%",
-    "time": 615,
-    "timeDay": 1191,
-    "timeWeek": 1187,
-    "timeMonth": 1127,
-    "timeYear": 605,
+    "uptimeMonth": "82.14%",
+    "uptimeYear": "86.74%",
+    "time": 616,
+    "timeDay": 1102,
+    "timeWeek": 1189,
+    "timeMonth": 1154,
+    "timeYear": 606,
     "dailyMinutesDown": {
       "2022-10-14": 84,
       "2022-10-08": 21,
@@ -84,8 +84,7 @@
       "2021-11-01": 1440,
       "2021-10-31": 1440,
       "2021-10-30": 1440,
-      "2021-10-29": 1440,
-      "2021-10-28": 1440
+      "2021-10-29": 1440
     }
   },
   {
@@ -94,16 +93,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.hentaios.com.ico",
     "slug": "hentai-os-blog",
     "status": "up",
-    "uptime": "88.68%",
+    "uptime": "88.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "75.09%",
-    "uptimeYear": "83.33%",
-    "time": 734,
-    "timeDay": 575,
-    "timeWeek": 550,
-    "timeMonth": 561,
-    "timeYear": 806,
+    "uptimeMonth": "78.38%",
+    "uptimeYear": "83.61%",
+    "time": 735,
+    "timeDay": 511,
+    "timeWeek": 542,
+    "timeMonth": 572,
+    "timeYear": 805,
     "dailyMinutesDown": {
       "2022-10-15": 590,
       "2022-10-14": 466,
@@ -192,8 +191,7 @@
       "2021-11-10": 983,
       "2021-11-09": 203,
       "2021-10-30": 549,
-      "2021-10-29": 1440,
-      "2021-10-28": 1440
+      "2021-10-29": 1440
     }
   },
   {
@@ -202,16 +200,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/get.hentaios.com.ico",
     "slug": "hentai-os-download-api",
     "status": "up",
-    "uptime": "90.54%",
+    "uptime": "90.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "78.84%",
-    "uptimeYear": "86.16%",
+    "uptimeMonth": "82.13%",
+    "uptimeYear": "86.43%",
     "time": 676,
-    "timeDay": 435,
-    "timeWeek": 419,
-    "timeMonth": 442,
-    "timeYear": 779,
+    "timeDay": 396,
+    "timeWeek": 415,
+    "timeMonth": 449,
+    "timeYear": 778,
     "dailyMinutesDown": {
       "2022-10-14": 96,
       "2022-10-08": 17,
@@ -283,8 +281,7 @@
       "2021-11-01": 1440,
       "2021-10-31": 1440,
       "2021-10-30": 1440,
-      "2021-10-29": 1440,
-      "2021-10-28": 1440
+      "2021-10-29": 1440
     }
   },
   {
@@ -293,15 +290,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.newcentrix.helluvaos.com.ico",
     "slug": "hentai-os-wiki",
     "status": "up",
-    "uptime": "86.90%",
-    "uptimeDay": "89.62%",
+    "uptime": "86.94%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.52%",
-    "uptimeMonth": "55.93%",
-    "uptimeYear": "86.90%",
+    "uptimeMonth": "59.22%",
+    "uptimeYear": "86.94%",
     "time": 1020,
-    "timeDay": 2841,
-    "timeWeek": 1722,
-    "timeMonth": 1121,
+    "timeDay": 1086,
+    "timeWeek": 1715,
+    "timeMonth": 1129,
     "timeYear": 1020,
     "dailyMinutesDown": {
       "2022-10-26": 150,
@@ -381,15 +378,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/forum.helluvaos.com.ico",
     "slug": "hentai-os-forum",
     "status": "up",
-    "uptime": "89.99%",
+    "uptime": "90.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "56.15%",
-    "uptimeYear": "85.30%",
-    "time": 871,
-    "timeDay": 993,
-    "timeWeek": 998,
-    "timeMonth": 695,
+    "uptimeMonth": "59.44%",
+    "uptimeYear": "85.57%",
+    "time": 872,
+    "timeDay": 981,
+    "timeWeek": 996,
+    "timeMonth": 720,
     "timeYear": 964,
     "dailyMinutesDown": {
       "2022-10-14": 95,
@@ -471,8 +468,7 @@
       "2021-11-27": 32,
       "2021-11-26": 52,
       "2021-10-30": 422,
-      "2021-10-29": 1440,
-      "2021-10-28": 1440
+      "2021-10-29": 1440
     }
   },
   {
@@ -481,15 +477,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.hentaios.com.ico",
     "slug": "hentai-os-mail",
     "status": "up",
-    "uptime": "86.55%",
+    "uptime": "86.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "94.33%",
+    "uptimeYear": "94.60%",
     "time": 894,
-    "timeDay": 589,
-    "timeWeek": 631,
-    "timeMonth": 765,
+    "timeDay": 586,
+    "timeWeek": 628,
+    "timeMonth": 758,
     "timeYear": 883,
     "dailyMinutesDown": {
       "2022-10-14": 64,
@@ -536,8 +532,7 @@
       "2021-11-06": 1230,
       "2021-11-05": 1440,
       "2021-11-04": 164,
-      "2021-10-29": 876,
-      "2021-10-28": 1440
+      "2021-10-29": 876
     }
   },
   {
@@ -546,15 +541,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.hentaios.com.ico",
     "slug": "hentai-os-git-lab",
     "status": "up",
-    "uptime": "88.20%",
+    "uptime": "88.23%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "78.54%",
-    "uptimeYear": "86.95%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "81.83%",
+    "uptimeYear": "87.23%",
     "time": 720,
-    "timeDay": 621,
-    "timeWeek": 814,
-    "timeMonth": 633,
+    "timeDay": 554,
+    "timeWeek": 624,
+    "timeMonth": 642,
     "timeYear": 725,
     "dailyMinutesDown": {
       "2022-10-20": 29,
@@ -634,8 +629,7 @@
       "2021-11-06": 1230,
       "2021-11-05": 1440,
       "2021-11-04": 164,
-      "2021-10-29": 1027,
-      "2021-10-28": 1440
+      "2021-10-29": 1027
     }
   }
 ]
