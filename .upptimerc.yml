@@ -7,8 +7,6 @@ sites:
     url: https://downloads.hentaios.com
   - name: hentaiOS Blog
     url: https://blog.hentaios.com
-  - name: hentaiOS Download API
-    url: https://get.hentaios.com/api/healthcheck
   - name: hentaiOS Wiki
     url: https://wiki.newcentrix.helluvaos.com
   - name: hentaiOS Forum
