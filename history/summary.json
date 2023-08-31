@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/downloads.hentaios.com.ico",
     "slug": "hentai-os-download-page",
     "status": "up",
-    "uptime": "93.36%",
+    "uptime": "93.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "89.03%",
-    "time": 1442,
-    "timeDay": 1607,
-    "timeWeek": 2235,
-    "timeMonth": 2590,
-    "timeYear": 1686,
+    "uptimeYear": "89.09%",
+    "time": 1443,
+    "timeDay": 1362,
+    "timeWeek": 2228,
+    "timeMonth": 2586,
+    "timeYear": 1689,
     "dailyMinutesDown": {
       "2023-08-10": 24,
       "2023-07-15": 295,
@@ -81,8 +81,7 @@
       "2022-09-04": 1440,
       "2022-09-03": 1440,
       "2022-09-02": 1440,
-      "2022-09-01": 1440,
-      "2022-08-31": 1440
+      "2022-09-01": 1440
     }
   },
   {
@@ -91,16 +90,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.hentaios.com.ico",
     "slug": "hentai-os-blog",
     "status": "up",
-    "uptime": "90.84%",
+    "uptime": "90.85%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.39%",
+    "uptimeWeek": "93.42%",
     "uptimeMonth": "75.88%",
-    "uptimeYear": "85.97%",
-    "time": 854,
-    "timeDay": 766,
-    "timeWeek": 590,
-    "timeMonth": 1317,
-    "timeYear": 909,
+    "uptimeYear": "86.03%",
+    "time": 855,
+    "timeDay": 620,
+    "timeWeek": 593,
+    "timeMonth": 1311,
+    "timeYear": 910,
     "dailyMinutesDown": {
       "2023-08-24": 686,
       "2023-08-23": 1440,
@@ -178,8 +177,7 @@
       "2022-09-04": 1440,
       "2022-09-03": 1440,
       "2022-09-02": 1440,
-      "2022-09-01": 1440,
-      "2022-08-31": 1440
+      "2022-09-01": 1440
     }
   },
   {
@@ -192,12 +190,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "83.96%",
+    "uptimeYear": "84.02%",
     "time": 1145,
-    "timeDay": 744,
-    "timeWeek": 1298,
-    "timeMonth": 1283,
-    "timeYear": 1198,
+    "timeDay": 1196,
+    "timeWeek": 1203,
+    "timeMonth": 1289,
+    "timeYear": 1199,
     "dailyMinutesDown": {
       "2023-05-30": 468,
       "2023-05-29": 545,
@@ -270,8 +268,7 @@
       "2022-09-04": 1440,
       "2022-09-03": 1440,
       "2022-09-02": 1440,
-      "2022-09-01": 1440,
-      "2022-08-31": 1440
+      "2022-09-01": 1440
     }
   },
   {
@@ -280,18 +277,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/forum.helluvaos.com.ico",
     "slug": "hentai-os-forum",
     "status": "down",
-    "uptime": "91.26%",
+    "uptime": "91.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "55.09%",
+    "uptimeMonth": "54.39%",
     "uptimeYear": "83.41%",
     "time": 1169,
-    "timeDay": 750,
-    "timeWeek": 638,
-    "timeMonth": 1379,
-    "timeYear": 1260,
+    "timeDay": 674,
+    "timeWeek": 641,
+    "timeMonth": 1336,
+    "timeYear": 1261,
     "dailyMinutesDown": {
-      "2023-08-30": 1158,
+      "2023-08-31": 23,
+      "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
@@ -371,8 +369,7 @@
       "2022-09-04": 1440,
       "2022-09-03": 1440,
       "2022-09-02": 1440,
-      "2022-09-01": 1440,
-      "2022-08-31": 1440
+      "2022-09-01": 1440
     }
   },
   {
@@ -381,18 +378,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.hentaios.com.ico",
     "slug": "hentai-os-mail",
     "status": "up",
-    "uptime": "91.28%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "89.44%",
+    "uptime": "91.17%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "89.46%",
     "uptimeYear": "97.00%",
     "time": 955,
-    "timeDay": 981,
-    "timeWeek": 940,
+    "timeDay": 955,
+    "timeWeek": 948,
     "timeMonth": 848,
-    "timeYear": 918,
+    "timeYear": 919,
     "dailyMinutesDown": {
-      "2023-08-30": 6,
       "2023-08-20": 1041,
       "2023-08-19": 1440,
       "2023-08-18": 1119,
@@ -444,12 +440,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.82%",
+    "uptimeYear": "88.88%",
     "time": 772,
-    "timeDay": 1223,
-    "timeWeek": 917,
-    "timeMonth": 902,
-    "timeYear": 788,
+    "timeDay": 893,
+    "timeWeek": 884,
+    "timeMonth": 903,
+    "timeYear": 789,
     "dailyMinutesDown": {
       "2023-07-15": 303,
       "2023-07-14": 448,
@@ -525,8 +521,7 @@
       "2022-09-04": 1440,
       "2022-09-03": 1440,
       "2022-09-02": 1440,
-      "2022-09-01": 1440,
-      "2022-08-31": 1440
+      "2022-09-01": 1440
     }
   }
 ]
