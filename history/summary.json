@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/downloads.hentaios.com.ico",
     "slug": "hentai-os-download-page",
     "status": "up",
-    "uptime": "93.46%",
+    "uptime": "93.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.95%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "92.83%",
-    "time": 1583,
-    "timeDay": 1577,
-    "timeWeek": 5998,
-    "timeMonth": 3468,
-    "timeYear": 1873,
+    "uptimeYear": "92.90%",
+    "time": 1584,
+    "timeDay": 1313,
+    "timeWeek": 6017,
+    "timeMonth": 3462,
+    "timeYear": 1876,
     "dailyMinutesDown": {
       "2023-09-09": 106,
       "2023-08-10": 24,
@@ -68,8 +68,7 @@
       "2022-09-18": 1440,
       "2022-09-17": 1440,
       "2022-09-16": 1440,
-      "2022-09-15": 1440,
-      "2022-09-14": 1440
+      "2022-09-15": 1440
     }
   },
   {
@@ -82,12 +81,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "75.88%",
-    "uptimeYear": "89.80%",
-    "time": 853,
-    "timeDay": 581,
-    "timeWeek": 611,
-    "timeMonth": 1005,
-    "timeYear": 923,
+    "uptimeYear": "89.87%",
+    "time": 854,
+    "timeDay": 568,
+    "timeWeek": 628,
+    "timeMonth": 1000,
+    "timeYear": 924,
     "dailyMinutesDown": {
       "2023-08-24": 686,
       "2023-08-23": 1440,
@@ -151,8 +150,7 @@
       "2022-09-18": 1440,
       "2022-09-17": 1440,
       "2022-09-16": 1440,
-      "2022-09-15": 1440,
-      "2022-09-14": 1440
+      "2022-09-15": 1440
     }
   },
   {
@@ -165,11 +163,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.79%",
+    "uptimeYear": "87.85%",
     "time": 1146,
-    "timeDay": 935,
-    "timeWeek": 1163,
-    "timeMonth": 1177,
+    "timeDay": 1030,
+    "timeWeek": 1124,
+    "timeMonth": 1164,
     "timeYear": 1209,
     "dailyMinutesDown": {
       "2023-05-30": 468,
@@ -229,8 +227,7 @@
       "2022-09-18": 1440,
       "2022-09-17": 1440,
       "2022-09-16": 1440,
-      "2022-09-15": 1440,
-      "2022-09-14": 1440
+      "2022-09-15": 1440
     }
   },
   {
@@ -239,18 +236,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/forum.helluvaos.com.ico",
     "slug": "hentai-os-forum",
     "status": "down",
-    "uptime": "89.79%",
+    "uptime": "89.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "9.18%",
+    "uptimeMonth": "8.37%",
     "uptimeYear": "83.41%",
     "time": 1164,
-    "timeDay": 710,
-    "timeWeek": 637,
-    "timeMonth": 797,
-    "timeYear": 1277,
+    "timeDay": 600,
+    "timeWeek": 649,
+    "timeMonth": 752,
+    "timeYear": 1278,
     "dailyMinutesDown": {
-      "2023-09-13": 1106,
+      "2023-09-14": 23,
+      "2023-09-13": 1440,
       "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
@@ -330,8 +328,7 @@
       "2022-09-18": 1440,
       "2022-09-17": 1440,
       "2022-09-16": 1440,
-      "2022-09-15": 1440,
-      "2022-09-14": 1440
+      "2022-09-15": 1440
     }
   },
   {
@@ -340,16 +337,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.hentaios.com.ico",
     "slug": "hentai-os-mail",
     "status": "up",
-    "uptime": "91.26%",
+    "uptime": "91.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "80.36%",
     "uptimeMonth": "87.23%",
     "uptimeYear": "96.63%",
     "time": 919,
-    "timeDay": 933,
-    "timeWeek": 755,
-    "timeMonth": 753,
-    "timeYear": 872,
+    "timeDay": 889,
+    "timeWeek": 810,
+    "timeMonth": 752,
+    "timeYear": 873,
     "dailyMinutesDown": {
       "2023-09-08": 875,
       "2023-09-07": 1104,
@@ -403,12 +400,12 @@
     "uptimeDay": "98.95%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "92.64%",
+    "uptimeYear": "92.71%",
     "time": 777,
-    "timeDay": 706,
-    "timeWeek": 781,
-    "timeMonth": 819,
-    "timeYear": 804,
+    "timeDay": 691,
+    "timeWeek": 797,
+    "timeMonth": 817,
+    "timeYear": 805,
     "dailyMinutesDown": {
       "2023-09-13": 15,
       "2023-07-15": 303,
@@ -471,8 +468,7 @@
       "2022-09-18": 1440,
       "2022-09-17": 1440,
       "2022-09-16": 1440,
-      "2022-09-15": 1440,
-      "2022-09-14": 1440
+      "2022-09-15": 1440
     }
   }
 ]
