@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "98.41%",
+    "uptimeYear": "98.57%",
     "time": 1841,
-    "timeDay": 1714,
-    "timeWeek": 1385,
-    "timeMonth": 2357,
-    "timeYear": 2090,
+    "timeDay": 1130,
+    "timeWeek": 1275,
+    "timeMonth": 2281,
+    "timeYear": 2088,
     "dailyMinutesDown": {
       "2023-11-06": 16,
       "2023-09-22": 66,
@@ -41,8 +41,7 @@
       "2022-12-21": 252,
       "2022-12-06": 828,
       "2022-12-05": 1440,
-      "2022-12-04": 1440,
-      "2022-12-03": 1440
+      "2022-12-04": 1440
     }
   },
   {
@@ -52,17 +51,16 @@
     "slug": "hentai-os-blog",
     "status": "up",
     "uptime": "91.22%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "94.51%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "94.68%",
     "time": 914,
-    "timeDay": 545,
-    "timeWeek": 516,
-    "timeMonth": 547,
-    "timeYear": 1016,
+    "timeDay": 471,
+    "timeWeek": 518,
+    "timeMonth": 542,
+    "timeYear": 1015,
     "dailyMinutesDown": {
-      "2023-12-02": 6,
       "2023-09-21": 347,
       "2023-09-20": 1440,
       "2023-09-19": 1440,
@@ -98,8 +96,7 @@
       "2022-12-07": 836,
       "2022-12-06": 1440,
       "2022-12-05": 1440,
-      "2022-12-04": 1440,
-      "2022-12-03": 1440
+      "2022-12-04": 1440
     }
   },
   {
@@ -108,16 +105,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.newcentrix.helluvaos.com.ico",
     "slug": "hentai-os-wiki",
     "status": "up",
-    "uptime": "91.44%",
+    "uptime": "91.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.78%",
-    "time": 1232,
-    "timeDay": 1182,
-    "timeWeek": 1400,
-    "timeMonth": 1264,
-    "timeYear": 1206,
+    "time": 1234,
+    "timeDay": 1564,
+    "timeWeek": 1426,
+    "timeMonth": 1283,
+    "timeYear": 1207,
     "dailyMinutesDown": {
       "2023-05-30": 468,
       "2023-05-29": 545,
@@ -155,12 +152,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.98%",
-    "time": 1248,
-    "timeDay": 1426,
-    "timeWeek": 1036,
-    "timeMonth": 1092,
-    "timeYear": 1344,
+    "uptimeYear": "90.15%",
+    "time": 1249,
+    "timeDay": 961,
+    "timeWeek": 1038,
+    "timeMonth": 1077,
+    "timeYear": 1343,
     "dailyMinutesDown": {
       "2023-09-17": 133,
       "2023-09-16": 1440,
@@ -211,8 +208,7 @@
       "2022-12-07": 16,
       "2022-12-06": 828,
       "2022-12-05": 1440,
-      "2022-12-04": 1440,
-      "2022-12-03": 1440
+      "2022-12-04": 1440
     }
   },
   {
@@ -225,11 +221,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.84%",
-    "time": 899,
-    "timeDay": 1071,
-    "timeWeek": 766,
-    "timeMonth": 774,
+    "uptimeYear": "97.00%",
+    "time": 898,
+    "timeDay": 600,
+    "timeWeek": 758,
+    "timeMonth": 764,
     "timeYear": 883,
     "dailyMinutesDown": {
       "2023-09-08": 875,
@@ -261,8 +257,7 @@
       "2022-12-21": 222,
       "2022-12-06": 828,
       "2022-12-05": 1440,
-      "2022-12-04": 1440,
-      "2022-12-03": 1440
+      "2022-12-04": 1440
     }
   },
   {
@@ -271,15 +266,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.hentaios.com.ico",
     "slug": "hentai-os-git-lab",
     "status": "up",
-    "uptime": "93.12%",
+    "uptime": "93.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.31%",
-    "uptimeYear": "98.16%",
+    "uptimeYear": "98.33%",
     "time": 766,
-    "timeDay": 914,
-    "timeWeek": 673,
-    "timeMonth": 740,
+    "timeDay": 679,
+    "timeWeek": 677,
+    "timeMonth": 734,
     "timeYear": 826,
     "dailyMinutesDown": {
       "2023-11-09": 173,
@@ -313,8 +308,7 @@
       "2022-12-21": 250,
       "2022-12-06": 834,
       "2022-12-05": 1440,
-      "2022-12-04": 1440,
-      "2022-12-03": 1440
+      "2022-12-04": 1440
     }
   }
 ]
