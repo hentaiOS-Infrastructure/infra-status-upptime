@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/downloads.hentaios.com.ico",
     "slug": "hentai-os-download-page",
     "status": "up",
-    "uptime": "95.60%",
+    "uptime": "95.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.78%",
     "time": 1410,
-    "timeDay": 1184,
-    "timeWeek": 1745,
-    "timeMonth": 1485,
+    "timeDay": 1451,
+    "timeWeek": 1790,
+    "timeMonth": 1500,
     "timeYear": 1391,
     "dailyMinutesDown": {
       "2024-12-10": 87,
@@ -26,8 +26,7 @@
       "2024-01-31": 21,
       "2024-01-21": 40,
       "2024-01-13": 16,
-      "2024-01-12": 66,
-      "2024-01-07": 25
+      "2024-01-12": 66
     }
   },
   {
@@ -42,9 +41,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.66%",
     "time": 2040,
-    "timeDay": 580,
-    "timeWeek": 576,
-    "timeMonth": 574,
+    "timeDay": 671,
+    "timeWeek": 594,
+    "timeMonth": 581,
     "timeYear": 2330,
     "dailyMinutesDown": {
       "2024-11-27": 38,
@@ -68,8 +67,7 @@
       "2024-01-21": 40,
       "2024-01-17": 16,
       "2024-01-13": 16,
-      "2024-01-12": 64,
-      "2024-01-07": 25
+      "2024-01-12": 64
     }
   },
   {
@@ -78,16 +76,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.helluvaos.com.ico",
     "slug": "hentai-os-wiki",
     "status": "up",
-    "uptime": "90.47%",
+    "uptime": "90.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.86%",
-    "time": 539,
-    "timeDay": 151,
-    "timeWeek": 146,
-    "timeMonth": 150,
-    "timeYear": 167,
+    "time": 537,
+    "timeDay": 184,
+    "timeWeek": 150,
+    "timeMonth": 153,
+    "timeYear": 162,
     "dailyMinutesDown": {
       "2024-02-21": 1176,
       "2024-02-20": 1440,
@@ -142,16 +140,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/forum.helluvaos.com.ico",
     "slug": "hentai-os-forum",
     "status": "up",
-    "uptime": "92.28%",
+    "uptime": "92.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.03%",
     "time": 1161,
-    "timeDay": 407,
-    "timeWeek": 712,
-    "timeMonth": 672,
-    "timeYear": 1072,
+    "timeDay": 857,
+    "timeWeek": 755,
+    "timeMonth": 675,
+    "timeYear": 1071,
     "dailyMinutesDown": {
       "2024-11-27": 36,
       "2024-10-28": 559,
@@ -173,8 +171,7 @@
       "2024-01-21": 40,
       "2024-01-17": 16,
       "2024-01-13": 16,
-      "2024-01-12": 63,
-      "2024-01-07": 25
+      "2024-01-12": 63
     }
   },
   {
@@ -189,9 +186,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 775,
-    "timeDay": 520,
-    "timeWeek": 522,
-    "timeMonth": 491,
+    "timeDay": 643,
+    "timeWeek": 539,
+    "timeMonth": 497,
     "timeYear": 720,
     "dailyMinutesDown": {
       "2024-11-27": 36,
@@ -208,8 +205,7 @@
       "2024-01-21": 47,
       "2024-01-17": 16,
       "2024-01-13": 16,
-      "2024-01-12": 62,
-      "2024-01-07": 25
+      "2024-01-12": 62
     }
   },
   {
@@ -224,10 +220,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 1149,
-    "timeDay": 746,
-    "timeWeek": 751,
-    "timeMonth": 760,
-    "timeYear": 1263,
+    "timeDay": 946,
+    "timeWeek": 779,
+    "timeMonth": 769,
+    "timeYear": 1264,
     "dailyMinutesDown": {
       "2024-11-27": 34,
       "2024-05-22": 17,
@@ -244,8 +240,7 @@
       "2024-01-21": 40,
       "2024-01-17": 16,
       "2024-01-13": 16,
-      "2024-01-12": 61,
-      "2024-01-07": 78
+      "2024-01-12": 61
     }
   }
 ]
