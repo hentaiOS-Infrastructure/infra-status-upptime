@@ -79,7 +79,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.75%",
+    "uptimeYear": "98.76%",
     "time": 1017,
     "timeDay": 1298,
     "timeWeek": 968,
@@ -92,8 +92,7 @@
       "2024-04-30": 536,
       "2024-03-15": 1032,
       "2024-03-14": 1440,
-      "2024-03-13": 1440,
-      "2024-03-12": 1440
+      "2024-03-13": 1440
     }
   },
   {
@@ -129,9 +128,9 @@
     "slug": "hentai-os-git-lab",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "99.21%",
-    "uptimeMonth": "99.02%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.03%",
     "uptimeYear": "99.44%",
     "time": 1852,
     "timeDay": 997,
@@ -139,7 +138,7 @@
     "timeMonth": 817,
     "timeYear": 1733,
     "dailyMinutesDown": {
-      "2025-03-11": 22,
+      "2025-03-11": 18,
       "2025-03-06": 23,
       "2025-03-05": 34,
       "2025-03-04": 48,
