@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
-    "time": 1496,
-    "timeDay": 931,
-    "timeWeek": 1312,
-    "timeMonth": 1857,
-    "timeYear": 1432,
+    "time": 1530,
+    "timeDay": 20433,
+    "timeWeek": 4084,
+    "timeMonth": 2552,
+    "timeYear": 1480,
     "dailyMinutesDown": {
       "2025-02-07": 15,
       "2025-01-13": 121,
@@ -23,8 +23,7 @@
       "2024-12-09": 83,
       "2024-12-06": 17,
       "2024-11-27": 39,
-      "2024-04-30": 536,
-      "2024-03-15": 222
+      "2024-04-30": 536
     }
   },
   {
@@ -38,17 +37,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 1678,
-    "timeDay": 431,
-    "timeWeek": 569,
-    "timeMonth": 591,
-    "timeYear": 565,
+    "time": 1676,
+    "timeDay": 490,
+    "timeWeek": 560,
+    "timeMonth": 590,
+    "timeYear": 564,
     "dailyMinutesDown": {
       "2025-01-13": 121,
       "2025-01-12": 64,
       "2024-11-27": 38,
-      "2024-04-30": 536,
-      "2024-03-15": 228
+      "2024-04-30": 536
     }
   },
   {
@@ -62,9 +60,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 366,
-    "timeDay": 106,
-    "timeWeek": 173,
+    "time": 364,
+    "timeDay": 112,
+    "timeWeek": 168,
     "timeMonth": 169,
     "timeYear": 155,
     "dailyMinutesDown": {}
@@ -79,18 +77,17 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.56%",
-    "time": 1017,
-    "timeDay": 839,
-    "timeWeek": 1010,
-    "timeMonth": 902,
+    "uptimeYear": "99.58%",
+    "time": 1016,
+    "timeDay": 892,
+    "timeWeek": 994,
+    "timeMonth": 906,
     "timeYear": 1001,
     "dailyMinutesDown": {
       "2025-01-12": 64,
       "2024-11-27": 36,
       "2024-10-28": 559,
-      "2024-04-30": 536,
-      "2024-03-15": 1032
+      "2024-04-30": 536
     }
   },
   {
@@ -104,10 +101,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 682,
-    "timeDay": 467,
-    "timeWeek": 514,
-    "timeMonth": 493,
+    "time": 683,
+    "timeDay": 494,
+    "timeWeek": 516,
+    "timeMonth": 494,
     "timeYear": 663,
     "dailyMinutesDown": {
       "2025-01-12": 64,
@@ -115,8 +112,7 @@
       "2024-11-22": 39,
       "2024-10-28": 83,
       "2024-05-11": 15,
-      "2024-04-30": 536,
-      "2024-03-15": 282
+      "2024-04-30": 536
     }
   },
   {
@@ -126,17 +122,16 @@
     "slug": "hentai-os-git-lab",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.31%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.35%",
     "uptimeMonth": "99.13%",
     "uptimeYear": "99.43%",
-    "time": 1855,
-    "timeDay": 771,
-    "timeWeek": 866,
-    "timeMonth": 823,
+    "time": 1856,
+    "timeDay": 831,
+    "timeWeek": 871,
+    "timeMonth": 822,
     "timeYear": 1717,
     "dailyMinutesDown": {
-      "2025-03-14": 4,
       "2025-03-12": 47,
       "2025-03-11": 18,
       "2025-03-06": 23,
@@ -165,8 +160,7 @@
       "2025-01-12": 786,
       "2024-11-27": 34,
       "2024-05-22": 17,
-      "2024-04-30": 536,
-      "2024-03-15": 234
+      "2024-04-30": 536
     }
   }
 ]
