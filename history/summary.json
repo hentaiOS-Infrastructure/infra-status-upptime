@@ -100,7 +100,7 @@
     "uptime": "94.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.42%",
-    "uptimeMonth": "95.62%",
+    "uptimeMonth": "96.19%",
     "uptimeYear": "88.92%",
     "time": 638,
     "timeDay": 459,
@@ -161,16 +161,16 @@
     "url": "https://gitlab.hentaios.com",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.hentaios.com.ico",
     "slug": "hentai-os-git-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "93.57%",
-    "uptimeWeek": "97.54%",
-    "uptimeMonth": "97.15%",
-    "uptimeYear": "99.40%",
-    "time": 1436,
-    "timeDay": 828,
-    "timeWeek": 828,
-    "timeMonth": 802,
+    "uptimeDay": "95.07%",
+    "uptimeWeek": "97.53%",
+    "uptimeMonth": "97.16%",
+    "uptimeYear": "99.41%",
+    "time": 1437,
+    "timeDay": 852,
+    "timeWeek": 835,
+    "timeMonth": 800,
     "timeYear": 1504,
     "dailyMinutesDown": {
       "2025-06-08": 56,
@@ -243,8 +243,7 @@
       "2025-02-12": 76,
       "2025-02-11": 16,
       "2025-02-10": 39,
-      "2025-02-09": 3,
-      "2025-02-06": 18
+      "2025-02-09": 3
     }
   }
 ]
