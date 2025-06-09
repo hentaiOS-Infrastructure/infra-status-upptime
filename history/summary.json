@@ -33,7 +33,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.hentaios.com.ico",
     "slug": "hentai-os-blog",
     "status": "up",
-    "uptime": "93.77%",
+    "uptime": "93.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.42%",
     "uptimeMonth": "99.87%",
@@ -100,7 +100,7 @@
     "uptime": "94.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.05%",
+    "uptimeMonth": "99.45%",
     "uptimeYear": "88.92%",
     "time": 637,
     "timeDay": 462,
@@ -161,13 +161,13 @@
     "url": "https://gitlab.hentaios.com",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.hentaios.com.ico",
     "slug": "hentai-os-git-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "98.60%",
-    "uptimeWeek": "97.34%",
-    "uptimeMonth": "97.24%",
-    "uptimeYear": "99.40%",
-    "time": 1418,
+    "uptimeDay": "98.58%",
+    "uptimeWeek": "97.33%",
+    "uptimeMonth": "97.23%",
+    "uptimeYear": "99.41%",
+    "time": 1414,
     "timeDay": 827,
     "timeWeek": 820,
     "timeMonth": 799,
@@ -242,9 +242,7 @@
       "2025-02-19": 49,
       "2025-02-13": 19,
       "2025-02-12": 76,
-      "2025-02-11": 16,
-      "2025-02-10": 39,
-      "2025-02-09": 3
+      "2025-02-11": 16
     }
   }
 ]
