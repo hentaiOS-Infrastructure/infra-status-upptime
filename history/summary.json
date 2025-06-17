@@ -56,7 +56,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.helluvaos.com.ico",
     "slug": "hentai-os-wiki",
     "status": "up",
-    "uptime": "91.64%",
+    "uptime": "91.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -163,17 +163,17 @@
     "slug": "hentai-os-git-lab",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "95.59%",
-    "uptimeWeek": "97.41%",
-    "uptimeMonth": "97.11%",
-    "uptimeYear": "99.38%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "97.44%",
+    "uptimeMonth": "97.12%",
+    "uptimeYear": "99.37%",
     "time": 1483,
     "timeDay": 866,
     "timeWeek": 875,
     "timeMonth": 819,
     "timeYear": 1484,
     "dailyMinutesDown": {
-      "2025-06-16": 62,
+      "2025-06-16": 58,
       "2025-06-15": 2,
       "2025-06-13": 20,
       "2025-06-10": 178,
@@ -244,7 +244,8 @@
       "2025-02-25": 20,
       "2025-02-20": 17,
       "2025-02-19": 49,
-      "2025-02-13": 19
+      "2025-02-13": 19,
+      "2025-02-12": 32
     }
   }
 ]
