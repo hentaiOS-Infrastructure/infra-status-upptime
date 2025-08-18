@@ -1,7 +1,7 @@
 url: https://gitlab.hentaios.com
-status: up
-code: 200
-responseTime: 1280
-lastUpdated: 2025-08-18T12:39:51.750Z
+status: down
+code: 429
+responseTime: 618
+lastUpdated: 2025-08-18T13:59:21.790Z
 startTime: 2021-09-13T01:50:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
