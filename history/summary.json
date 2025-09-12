@@ -4,11 +4,11 @@
     "url": "https://downloads.hentaios.com",
     "icon": "https://icons.duckduckgo.com/ip3/downloads.hentaios.com.ico",
     "slug": "hentai-os-download-page",
-    "status": "up",
+    "status": "down",
     "uptime": "96.26%",
-    "uptimeDay": "85.06%",
-    "uptimeWeek": "97.87%",
-    "uptimeMonth": "99.36%",
+    "uptimeDay": "85.29%",
+    "uptimeWeek": "97.90%",
+    "uptimeMonth": "99.37%",
     "uptimeYear": "99.83%",
     "time": 1899,
     "timeDay": 6155,
@@ -16,7 +16,7 @@
     "timeMonth": 3708,
     "timeYear": 2146,
     "dailyMinutesDown": {
-      "2025-09-12": 216,
+      "2025-09-12": 212,
       "2025-09-02": 22,
       "2025-08-23": 22,
       "2025-08-17": 20,
@@ -169,18 +169,19 @@
     "url": "https://gitlab.hentaios.com",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.hentaios.com.ico",
     "slug": "hentai-os-git-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.31%",
     "uptimeMonth": "98.75%",
     "uptimeYear": "99.35%",
-    "time": 1331,
+    "time": 1332,
     "timeDay": 809,
     "timeWeek": 960,
     "timeMonth": 1104,
     "timeYear": 1410,
     "dailyMinutesDown": {
+      "2025-09-12": 0,
       "2025-09-10": 24,
       "2025-09-09": 26,
       "2025-09-07": 19,
@@ -248,8 +249,7 @@
       "2025-05-11": 24,
       "2025-05-09": 53,
       "2025-05-08": 43,
-      "2025-05-07": 22,
-      "2025-05-06": 31
+      "2025-05-07": 22
     }
   }
 ]
