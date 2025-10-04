@@ -171,17 +171,16 @@
     "slug": "hentai-os-git-lab",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.26%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.27%",
     "uptimeYear": "99.37%",
     "time": 1304,
-    "timeDay": 987,
+    "timeDay": 974,
     "timeWeek": 962,
     "timeMonth": 988,
     "timeYear": 1387,
     "dailyMinutesDown": {
-      "2025-10-03": 4,
       "2025-10-02": 27,
       "2025-10-01": 20,
       "2025-09-28": 17,
@@ -250,7 +249,8 @@
       "2025-05-24": 478,
       "2025-05-23": 50,
       "2025-05-22": 42,
-      "2025-05-21": 28
+      "2025-05-21": 28,
+      "2025-05-17": 23
     }
   }
 ]
